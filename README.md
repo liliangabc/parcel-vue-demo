@@ -1,4 +1,4 @@
-# h5-games
+# parcel for vue demo
 
 > parcel for vue demo
 
